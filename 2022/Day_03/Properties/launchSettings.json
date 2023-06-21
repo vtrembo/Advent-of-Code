@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Day_01_2": {
+    "Day_03": {
       "commandName": "Project",
       "commandLineArgs": "< input.txt > output.txt"
     }
